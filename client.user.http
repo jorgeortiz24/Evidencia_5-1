@@ -1,0 +1,8 @@
+POST http://localhost:3500/crear-usuario
+Content-Type: application/json
+
+{
+    "correo": "jlortiz161@soy.sena.edu.co",
+    "clave": "jorge123",
+    "confirmaClave": "jorge12"
+}
